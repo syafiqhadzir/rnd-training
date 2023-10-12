@@ -1,9 +1,8 @@
 <!-- omit in toc -->
-# Cypress
-
-![Cypress](https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg)
+# ![Cypress](https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg)
 
 Open-source E2E testing tools & UI testing framework. Website: [https://www.cypress.io/](https://www.cypress.io/).
+
 
 <!-- omit in toc -->
 ## Table of Contents
