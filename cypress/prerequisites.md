@@ -31,5 +31,3 @@ Note: the LTS version of Node.js is recommended.
 ### Git SCM
 
 To download Git SCM: [link](https://git-scm.com/downloads).
-
-To dow
