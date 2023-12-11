@@ -1,0 +1,33 @@
+{
+  "name": "rnd-training",
+  "version": "0.1.0",
+  "description": "Cypress training and tutorial notes.",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@nuxt-themes/docus": "latest",
+    "@nuxt/devtools": "latest",
+    "@nuxt/eslint-config": "latest",
+    "@nuxtjs/plausible": "latest",
+    "@types/node": "latest",
+    "eslint": "latest",
+    "nuxt": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:syafiqhadzir/rnd-training.git"
+  },
+  "keywords": [
+    "cypress",
+    "ucm",
+    "edge"
+  ],
+  "author": "Syafiq",
+  "license": "MIT"
+}
